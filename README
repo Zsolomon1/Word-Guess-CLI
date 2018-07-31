@@ -1,0 +1,4 @@
+WORD GUESS CLI
+
+created a word guessing game using node.JS and JS constructors to execute in terminal
+used INQUIRER npm package
